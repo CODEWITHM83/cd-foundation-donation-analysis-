@@ -1,6 +1,6 @@
 /*
 ===========================================================
-Project: Cuddles Foundation Donation Analysis
+Project: C.D Foundation Donation Analysis
 Database: SQL Server
 Author: Mithun Mondal
 Description:
